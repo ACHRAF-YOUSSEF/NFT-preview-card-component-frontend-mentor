@@ -48,6 +48,7 @@ Error generating stack: `+o.message+`
         px-4\r
         space-y-8\r
         shadow-2xl\r
+        max-w-screen-sm\r
       `,children:R.jsxs("div",{className:"flex flex-col space-y-5 p-4",children:[R.jsxs("div",{className:"relative",children:[R.jsx("img",{className:"rounded-xl object-cover",src:o,alt:"top-image"}),R.jsx("div",{className:`\r
               rounded-xl \r
               bg-Cyan \r
