@@ -35,6 +35,7 @@ const Card: React.FC<CardProps> = ({
         px-4
         space-y-8
         shadow-2xl
+        max-w-screen-sm
       "
     >
       <div className="flex flex-col space-y-5 p-4">
