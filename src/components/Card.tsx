@@ -30,11 +30,9 @@ const Card: React.FC<CardProps> = ({
         justify-center
         items-center
         bg-Very-dark-blue-card 
-        w-fit
-        h-fit
         rounded-2xl
-        m-4
-        p-4
+        m-auto
+        px-4
         space-y-8
         shadow-2xl
       "

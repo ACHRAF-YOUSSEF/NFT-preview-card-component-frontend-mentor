@@ -1,6 +1,9 @@
 import Footer from './components/Footer';
 import Card from './components/Card';
 
+import avatar from './assets/image-avatar.png';
+import equilibrium from "./assets/image-equilibrium.jpg";
+
 import './App.css';
 
 function App() {
@@ -11,9 +14,9 @@ function App() {
     timeRemaining: "3 days left",
     person: {
       name: "Jules Wyvern",
-      imgUrl: "src/assets/image-avatar.png",
+      imgUrl: avatar,
     },
-    image: "src/assets/image-equilibrium.jpg",
+    image: equilibrium,
   };
 
   return (
